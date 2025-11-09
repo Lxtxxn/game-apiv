@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cyber Rush",
+    "rating": 4.7,
+    "image": "https://example.com/cyber-rush.jpg",
+    "description": "سباق مستقبلي سريع ومليء بالإثارة"
+  },
+  {
+    "name": "Jungle Adventure",
+    "rating": 4.3,
+    "image": "https://example.com/jungle-adventure.jpg",
+    "description": "استكشف الغابة وحل الألغاز الغامضة"
+  }
+]
