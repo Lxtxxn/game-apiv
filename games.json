@@ -11,7 +11,7 @@
     ],
     "size": "983.41MB+(Post-Download Cache)",
     "platform": ["iOS", "Android"],
-    "android _compatible": ["Qualcomm Snapdragon 845 and better 4GB RAM"],
-    "ios_devices_required": ["iPhone XS Max or newer, iPad Pro 2018 or later"]
+    "android_compatible": ["Qualcomm Snapdragon 845 and better 4GB RAM"],
+    "ios_devices_required": ["iPhone XS Max or newer", "iPad Pro 2018 or later"]
   }
 ]
