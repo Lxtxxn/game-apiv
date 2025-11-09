@@ -1,14 +1,17 @@
 [
   {
-    "name": "Cyber Rush",
-    "rating": 4.7,
-    "image": "https://example.com/cyber-rush.jpg",
-    "description": "سباق مستقبلي سريع ومليء بالإثارة"
+    "id": 1,
+    "name": "BeamNG.drive Mobile",
+    "cover_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/capsule_616x353.jpg?t=1743607220",
+    "game_image": "https://avatars.githubusercontent.com/u/6404024?s=280&v=4",
+    "screenshots": [
+      "https://i.ibb.co/60DvVQDN/c5.jpg",
+      "https://i.ibb.co/nNJPCcgW/j70.jpg",
+      "https://i.ibb.co/jvnps9wr/c2.jpg"
+    ],
+    "size": "983.41MB+(Post-Download Cache)",
+    "platform": ["iOS", "Android"]
+    "android _compatible":  ["Qualcomm Snapdragon 845 and better 4GB RAM"]
+    "ios_devices_required":["iPhone XS Max or newer, iPad Pro 2018 or later"]
   },
-  {
-    "name": "Jungle Adventure",
-    "rating": 4.3,
-    "image": "https://example.com/jungle-adventure.jpg",
-    "description": "استكشف الغابة وحل الألغاز الغامضة"
-  }
 ]
