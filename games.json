@@ -1,6 +1,7 @@
 [
   {
     "id": "tt1",
+    "slug": "hollow-knight-silksong",
     "name": "Hollow Knight: Silksong",
     "cover_image": "https://static-sg.winudf.com/wupload/xy/aprojectadmin/gqe4VbxI.jpg?imageMogr2/thumbnail/384x216",
     "game_image": "https://image.winudf.com/v2/user/admin/YWRtaW5faW1hZ2VzICgxKS5qcGdfMTc2MDE3MjUwNjkyNg/icon.webp?w=280&fakeurl=1&type=.webp",
@@ -16,19 +17,14 @@
     "all_games": true,
     "most_popular": true,
     "badge": "HOT",
-    "rating": [
-      "7.3★"
-    ],
-    "android_compatible": [
-      "Android 6.0+"
-    ],
-    "ios_devices_required": [
-      "iPhone 8, iPad 5th gen +"
-    ]
+    "rating": ["7.3★"],
+    "android_compatible": ["Android 6.0+"],
+    "ios_devices_required": ["iPhone 8, iPad 5th gen +"]
   },
-  
-{
+
+  {
     "id": "tt2",
+    "slug": "hollow-knight",
     "name": "Hollow Knight",
     "cover_image": "https://static-sg.winudf.com/wupload/xy/aprojectadmin/IzFccpgy.jpg?imageMogr2/thumbnail/384x216",
     "game_image": "https://image.winudf.com/v2/user/admin/YWRtaW5faG93LWhvbGxvdy1rbmlnaHRzLWNvbW11bml0eS1jcmFmdGVkLWdpYmJlcmlzaC1pbnRvLWEtcmVhbC1sYW5ndWFnZS0xNTY3NzgxNDYxNTQ4LmpwZ18xNzMzMTM1MDU2MTg3/icon.webp?w=280&fakeurl=1&type=.webp",
@@ -44,19 +40,14 @@
     "all_games": true,
     "most_popular": false,
     "badge": "HOT",
-    "rating": [
-      "9.2★"
-    ],
-    "android_compatible": [
-      "Android 4.0+"
-    ],
-    "ios_devices_required": [
-      "iPhone 8, iPad 5th gen +"
-    ]
+    "rating": ["9.2★"],
+    "android_compatible": ["Android 4.0+"],
+    "ios_devices_required": ["iPhone 8, iPad 5th gen +"]
   },
 
   {
     "id": "tt3",
+    "slug": "carx-street",
     "name": "CarX Street",
     "cover_image": "https://image.winudf.com/v2/image1/Y29tLmNhcnh0ZWNoLnNyX3NjcmVlbl8wXzE3MzU1NzYzOTFfMDkw/screen-0.webp?h=300&fakeurl=1&type=.webp",
     "game_image": "https://image.winudf.com/v2/image1/Y29tLmNhcnh0ZWNoLnNyX2ljb25fMTczODY4NzI3NF8wMjc/icon.webp?w=320&fakeurl=1&type=.webp",
@@ -72,19 +63,14 @@
     "all_games": true,
     "most_popular": false,
     "badge": "NEW",
-    "rating": [
-      "6.9★"
-    ],
-    "android_compatible": [
-      "Android 10.0+"
-    ],
-    "ios_devices_required": [
-      "iPhone 8, iPad 5th gen +"
-    ]
+    "rating": ["6.9★"],
+    "android_compatible": ["Android 10.0+"],
+    "ios_devices_required": ["iPhone 8, iPad 5th gen +"]
   },
-  
+
   {
     "id": "tt4",
+    "slug": "rooftops-alleys-mobile",
     "name": "Rooftops & Alleys Mobile",
     "cover_image": "https://i.postimg.cc/G3GjLXJ3/header.jpg",
     "game_image": "https://i.postimg.cc/W1bm7TRt/Fh-T2ixl-Wyl9-TPswg-KLF0j-Pp9j-Nuq.png",
@@ -97,22 +83,17 @@
     "genre": "Parkour",
     "version": "2.1.0",
     "mod": true,
-     "all_games": true,
+    "all_games": true,
     "most_popular": false,
     "badge": "NEW",
-    "rating": [
-      "8.4★"
-    ],
-    "android_compatible": [
-      "Snapdragon 665 and better 4GB RAM"
-    ],
-    "ios_devices_required": [
-      "iPhone 8, iPad 5th gen +"
-    ]
+    "rating": ["8.4★"],
+    "android_compatible": ["Snapdragon 665 and better 4GB RAM"],
+    "ios_devices_required": ["iPhone 8, iPad 5th gen +"]
   },
 
-{
+  {
     "id": "tt5",
+    "slug": "beamng-drive-mobile",
     "name": "BeamNG drive Mobile",
     "cover_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/284160/capsule_616x353.jpg?t=1743607220",
     "game_image": "https://avatars.githubusercontent.com/u/6404024?s=280&v=4",
@@ -128,18 +109,14 @@
     "all_games": true,
     "most_popular": false,
     "badge": "UPDATE ",
-    "rating": [
-      "7.4★"
-    ],
-    "android_compatible": [
-      "Qualcomm Snapdragon 845 and better 4GB RAM"
-    ],
-    "ios_devices_required": [
-      "iPhone XS Max or newer iPad Pro 2018 or later"
-    ]
+    "rating": ["7.4★"],
+    "android_compatible": ["Qualcomm Snapdragon 845 and better 4GB RAM"],
+    "ios_devices_required": ["iPhone XS Max or newer iPad Pro 2018 or later"]
   },
-    {
+
+  {
     "id": "tt6",
+    "slug": "gta-5-mobile",
     "name": "GTA 5 Mobile",
     "cover_image": "https://www.mouse-sensitivity.com/uploads/monthly_2017_04/c42acec38aa8abd3226d2053578a7243.jpg.d9d92a37137139aa8bbedfc6ca0e8768.jpg",
     "game_image": "https://i.pinimg.com/736x/8f/01/03/8f010359c57da7850e723fa17a53b55e.jpg",
@@ -155,18 +132,14 @@
     "all_games": true,
     "most_popular": true,
     "badge": "HOT",
-    "rating": [
-      "9.7★"
-    ],
-    "android_compatible": [
-      "Qualcomm Snapdragon 845 and better 4GB RAM"
-    ],
-    "ios_devices_required": [
-      "iPhone XS Max or newer iPad Pro 2018 or later"
-    ]
+    "rating": ["9.7★"],
+    "android_compatible": ["Qualcomm Snapdragon 845 and better 4GB RAM"],
+    "ios_devices_required": ["iPhone XS Max or newer iPad Pro 2018 or later"]
   },
+
   {
     "id": "tt7",
+    "slug": "watch-dogs-2-mobile",
     "name": "Watch Dogs 2 Mobile",
     "cover_image": "https://cdn1.epicgames.com/angelonia/offer/WD2-STD-Capsule-1920x1080-2a2ed8c8265ab31156be8ab48a93dc212d5c7095.jpg",
     "game_image": "https://i.postimg.cc/Xvg3XNm6/Watch-Dogs-2-Logo.png",
@@ -182,18 +155,14 @@
     "all_games": true,
     "most_popular": false,
     "badge": "NEW ",
-    "rating": [
-      "8.5★"
-    ],
-    "android_compatible": [
-      "Qualcomm Snapdragon 845 and better 6GB RAM"
-    ],
-    "ios_devices_required": [
-      "iPhone XS or newer iPad Pro 2018 or later"
-    ]
+    "rating": ["8.5★"],
+    "android_compatible": ["Qualcomm Snapdragon 845 and better 6GB RAM"],
+    "ios_devices_required": ["iPhone XS or newer iPad Pro 2018 or later"]
   },
+
   {
     "id": "tt8",
+    "slug": "euro-truck-simulator-2",
     "name": "Euro Truck Simulator 2",
     "cover_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg?t=1750168417",
     "game_image": "https://i.pinimg.com/564x/32/ae/e5/32aee5919f1c4e81da58627d21b3323a.jpg",
@@ -209,18 +178,14 @@
     "all_games": true,
     "most_popular": false,
     "badge": "NEW ",
-    "rating": [
-      "8.3★"
-    ],
-    "android_compatible": [
-      "Qualcomm Snapdragon 855 and better 6GB RAM"
-    ],
-    "ios_devices_required": [
-      "iPhone 11 or newer iPad Air 2020 or later"
-    ]
+    "rating": ["8.3★"],
+    "android_compatible": ["Qualcomm Snapdragon 855 and better 6GB RAM"],
+    "ios_devices_required": ["iPhone 11 or newer iPad Air 2020 or later"]
   },
-    {
+
+  {
     "id": "tt9",
+    "slug": "assetto-corsa-mobile",
     "name": "Assetto Corsa Mobile",
     "cover_image": "https://i.postimg.cc/xTf0RcLs/Screenshot-20250630-211701-Gallery.jpg",
     "game_image": "https://i.postimg.cc/mgStnz0K/Picsart-25-10-16-14-24-02-706.jpg",
@@ -236,18 +201,14 @@
     "all_games": true,
     "most_popular": true,
     "badge": "HOT",
-    "rating": [
-      "8.5★"
-    ],
-    "android_compatible": [
-      "Qualcomm Snapdragon 845 and better 4GB RAM"
-    ],
-    "ios_devices_required": [
-      "iPhone XS Max or newer iPad Pro 2018 or later"
-    ]
+    "rating": ["8.5★"],
+    "android_compatible": ["Qualcomm Snapdragon 845 and better 4GB RAM"],
+    "ios_devices_required": ["iPhone XS Max or newer iPad Pro 2018 or later"]
   },
+
   {
     "id": "tt10",
+    "slug": "god-of-war-ragnarok-mobile",
     "name": "God of War Ragnarok Mobile",
     "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtO_I5AQjtccjKj1dFcyd8BS2Tqozb1VzcHtpTQeZpCw&s=10",
     "game_image": "https://i.ibb.co/HDnzRsJ/gow.jpg",
@@ -263,19 +224,15 @@
     "all_games": true,
     "most_popular": true,
     "badge": "HOT",
-    "rating": [
-      "9.5★"
-    ],
-    "android_compatible": [
-      "Qualcomm Snapdragon 845 and better 4GB RAM"
-    ],
-    "ios_devices_required": [
-      "iPhone XS Max or newer iPad Pro 2018 or later"
-    ]
+    "rating": ["9.5★"],
+    "android_compatible": ["Qualcomm Snapdragon 845 and better 4GB RAM"],
+    "ios_devices_required": ["iPhone XS Max or newer iPad Pro 2018 or later"]
   },
+
   {
     "id": "tt11",
-    "name": "Sausage Man mod",   
+    "slug": "sausage-man-mod",
+    "name": "Sausage Man mod",
     "cover_image": "https://image.winudf.com/v2/image1/Y29tLkdsb2JhbFNvRnVubnkuU2F1c2FnZV9iYW5uZXJfMTc0NDg5OTM2MV8wNzY/banner.jpg?fakeurl=1&w=1200",
     "game_image": "https://image.winudf.com/v2/image1/Y29tLkdsb2JhbFNvRnVubnkuU2F1c2FnZV9pY29uXzE3NTk5OTQ0OTBfMDIz/icon.webp?w=280&fakeurl=1&type=.webp",
     "screenshots": [
@@ -284,21 +241,14 @@
       "https://image.winudf.com/v2/image1/Y29tLkdsb2JhbFNvRnVubnkuU2F1c2FnZV9zY3JlZW5fMl8xNzU5OTk0NDk0XzA1Ng/screen-7.webp?h=300&fakeurl=1&type=.webp"
     ],
     "size": "1.79GB",
-    "genre": "Action,shooter ",
+    "genre": "Action,shooter",
     "version": "21.9",
     "mod": true,
     "all_games": true,
     "most_popular": true,
     "badge": "HOT",
-    "rating": [
-      "4.1★"
-    ],
-    "android_compatible": [
-      "Android 5.1 and up"
-    ],
-    "ios_devices_required": [
-      "iPhone XS and up"
-    ]
+    "rating": ["4.1★"],
+    "android_compatible": ["Android 5.1 and up"],
+    "ios_devices_required": ["iPhone XS and up"]
   }
-  ]
-     
+]
